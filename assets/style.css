@@ -5,7 +5,7 @@
 }
 
 body {
-    backgrond: url(´img\bg-desktop.webp´);
+    background: url('img\bg-desktop.webp');
     font-family: Bai Jamjuree;
 }
 
@@ -25,7 +25,7 @@ body {
 }
 
 .cartao__conteudo{
-    backgrond-color: var (--card-front-color);
+    background-color: var (--card-front-color);
     text-align: center;
     /* background-color: aquamarine; */
     heigut: 100%;
@@ -99,7 +99,7 @@ footer p {
 @media (max-width: 560px) {
 
     body{
-        background: : url(ing/bg-mobile.webp´), no-repeat cover;
+        background: : url('ing/bg-mobile.webp'), no-repeat cover;
     }
 
     .cartao{
